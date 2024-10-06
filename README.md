@@ -28,4 +28,5 @@ Para ejecutar esta aplicación localmente, sigue estos pasos:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/sotoflore/Contador-de-calorias-con-TypeScript.git
+   git clone https://github.com/sotoflore/Contador-de-Calorias-useReducer-ContextAPI.git
+   ```
