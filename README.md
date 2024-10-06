@@ -1,6 +1,6 @@
 # Aplicación de Contador de Calorías
 
-Este proyecto es una aplicación de contador de calorías construida usando TypeScript y el hook `useReducer` para la gestión del estado.
+Este proyecto es una aplicación de contador de calorías construida usando TypeScript y el hook `useReducer` tambien `ContextAPI` para la gestión global del estado.
 
 ![demo](https://github.com/sotoflore/Contador-de-Calorias-useReducer/blob/main/public/image-app.jpg)
 
